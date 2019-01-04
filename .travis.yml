@@ -9,7 +9,6 @@ install:
   - python -m pip install pytest-cov
   
 script: 
-  - python -m pytest --cov
-  - python -m pip freeze > requirements.txt
-
+  - python -m pytest --cov=app/
+  
 after_success: coveralls
