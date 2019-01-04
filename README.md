@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Araali1/iReporter_API.svg?branch=ch-blueprint)](https://travis-ci.com/Araali1/iReporter_API)
+
 # iReporter_API
 iReporter_API will help powerup the UI which enables all citizens to report forms of corruption to the appropriate authorities and the general public. Users can also report on things that needs government intervention.
 
